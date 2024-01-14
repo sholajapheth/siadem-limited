@@ -1,51 +1,52 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Next Project"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
+  title: "Welcome to SIADEM Limited - Your Trusted Engineering Consulting Partner"
+  content: "At SIADEM Limited, we specialize in providing top-notch engineering consulting services across diverse sectors, including water, wastewater, power, and renewable energy. Our expertise spans Process, Electrical, Instrumentation, and Control Automation, ensuring comprehensive solutions tailored to your unique needs."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/nextplate"
+    label: "Contact us"
+    link: "/contact"
 
 # Features
 features:
-  - title: "What's Included in Nextplate"
+  - title: "What we do at SIADEM Limited?"
     image: "/images/service-1.png"
-    content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
+    content: "Discover the specialized services offered by SIADEM Limited, where our expertise extends across various engineering consulting sectors. Here's what sets us apart:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Next and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Water Sector"
+      - "Wastewater Sector"
+      - "Power Sector"
+      - "Renewable Energy"
+      # - "SEO-optimized for better search engine rankings"
+      # - "**Open-source and free** for personal and commercial use"
     button:
       enable: false
       label: "Get Started Now"
-      link: "#"
+      link: "/contact"
 
-  - title: "Discover the Key Features Of Next"
+  - title: "Why Choose SIADEM Limited?"
     image: "/images/service-2.png"
-    content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "At SIADEM Limited, our commitment to excellence sets us apart. Discover why we are your preferred choice:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Proven Expertise: Years of successful projects demonstrate our proficiency."
+      - "Client-Centric Approach: Tailored solutions to meet your specific requirements."
+      - "Innovation: Embracing the latest technologies for sustainable and efficient solutions."
+      - "Quality Assurance: Committed to delivering excellence in every aspect of our services."
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/nextplate"
+      link: "/contact"
 
-  - title: "The Top Reasons to Choose Next for Your Next Project"
+  - title: "Why Choose SIADEM Limited as Your Engineering Consulting Partner?"
     image: "/images/service-3.png"
-    content: "With Next, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Discover the unparalleled benefits of partnering with SIADEM Limited for your engineering consulting needs. Here's why we stand out:"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Next a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Diverse Specialization: Specializing in top-notch engineering consulting across water, wastewater, power, and renewable energy sectors."
+      - "Comprehensive Expertise: Offering expertise in Process, Electrical, Instrumentation, and Control Automation for holistic and tailored solutions."
+      - "Client-Centric Approach: Putting your unique needs first, we ensure personalized and comprehensive solutions for your specific requirements."
+      - "Proven Excellence: With a track record of successful projects, we bring a proven commitment to excellence to every consulting engagement."
     button:
       enable: false
       label: ""

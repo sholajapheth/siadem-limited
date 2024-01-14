@@ -1,10 +1,11 @@
 ---
 enable: true
-title: "Ready to build your next project with Next?"
+title: "Ready to Partner with SIADEM Limited for Your Engineering Solutions?"
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Nextplate and Next. Build lightning-fast static sites with ease and flexibility."
+description: "Take the next step in your project journey with SIADEM Limited, your trusted engineering consulting partner. Benefit from our top-notch services in water, wastewater, power, and renewable energy sectors. Our expertise in Process, Electrical, Instrumentation, and Control Automation ensures tailored solutions for your unique needs."
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/nextplate"
+  label: "Contact Us Today"
+  link: "/contact"
+
 ---

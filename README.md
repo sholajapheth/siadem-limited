@@ -1,111 +1,30 @@
-<h1 align=center>Nextjs + Tailwind CSS + TypeScript Starter and Boilerplate</h1>
+```markdown
+# SIADEM Limited - Your Trusted Engineering Consulting Partner
 
-<p align=center>Nextplate is a free starter template built with Nextjs, TailwindCSS & TypeScript, providing everything you need to jumpstart your Next project and save valuable time.</p>
+Explore the story behind SIADEM Limited, your go-to partner for engineering consulting.
 
-<p align=center>Made with ♥ by<a href="https://zeon.studio/"> Zeon Studio</a></p>
-<p align=center> If you find this project useful, please give it a ⭐ to show your support. </p>
+## Welcome to SIADEM Limited
 
-<h2 align="center"> <a target="_blank" href="https://nextplate.netlify.app/" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-nextplate-netlify-app/zttnq0z42d?form_factor=desktop">Page Speed (100%)🚀</a>
-</h2>
+At SIADEM Limited, our mission is to deliver excellence in engineering consulting services. Specializing in water, wastewater, power, and renewable energy sectors, we bring top-notch expertise to every project. Our proficiency in Process, Electrical, Instrumentation, and Control Automation ensures comprehensive solutions tailored to your unique needs.
 
-<p align=center>
+## Our Commitment
 
-  <a href="https://github.com/vercel/next.js/releases/tag/v14.0.2" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=NEXTJS&message=13.4&color=000&logo=nextjs" />
-  </a>
+Founded on the principles of innovation and client-centricity, SIADEM Limited is dedicated to exceeding your expectations. We believe in the power of collaboration and the impact of sustainable engineering solutions. Our commitment to quality and excellence sets us apart in the industry.
 
-  <a href="https://github.com/zeon-studio/nextplate/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/zeon-studio/nextplate" alt="license"></a>
+## Meet Our Team
 
-  <img src="https://img.shields.io/github/languages/code-size/zeon-studio/nextplate" alt="code size">
+Behind every success story at SIADEM Limited is a team of dedicated professionals. From seasoned experts to dynamic talents, our team is united by a passion for engineering excellence. Meet the faces driving innovation and delivering results.
 
-  <a href="https://github.com/zeon-studio/nextplate/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/zeon-studio/nextplate" alt="contributors"></a>
-</p>
+### Technical Director - Isaac Solomon
 
-## 📌 Key Features
+With a wealth of experience and expertise, Isaac Solomon leads our team as the Technical Director. His commitment to excellence drives our pursuit of innovative solutions and unparalleled service.
 
-- 👥 Multi-Authors
-- 🎯 Similar Posts Suggestion
-- 🔍 Search Functionality
-- 🌑 Dark Mode
-- 🏷️ Tags & Categories
-- 🔗 Netlify setting pre-configured
-- 📞 Support contact form
-- 📱 Fully responsive
-- 📝 Write and update content in Markdown / MDX
-- 💬 Disqus Comment
-- 🔳 Syntax Highlighting
+## Contact Information
 
-### 📄 15+ Pre-designed Pages
+**Company Name:** SIADEM Limited  
+**Address:** 3 Ovens Road, Castlehill, Ebbsfleet Valley, Swanscombe DA10 1DP
 
-- 🏠 Homepage
-- 👤 About
-- 📞 Contact
-- 👥 Authors
-- 👤 Author Single
-- 📝 Blog
-- 📝 Blog Single
-- 🚫 Custom 404
-- 💡 Elements
-- 📄 Privacy Policy
-- 🏷️ Tags
-- 🏷️ Tag Single
-- 🗂️ Categories
-- 🗂️ Category Single
-- 🔍 Search
+## Get In Touch
 
-## 🚀 Getting Started
-
-### 📦 Dependencies
-
-- next 14.0+
-- node v20.10+
-- npm v10.2+
-- tailwind v3.3+
-
-### 👉 Install Dependencies
-
-```bash
-npm install
+Whether you are embarking on a new project or seeking consulting services, SIADEM Limited is ready to partner with you. Contact us today to explore how our expertise can elevate your engineering initiatives.
 ```
-
-### 👉 Development Command
-
-```bash
-npm run dev
-```
-
-### 👉 Build Command
-
-```bash
-npm run build
-```
-
-### 👉 Build and Run With Docker
-
-```bash
-docker build -t nextplate .
-docker run -p 3000:3000 nextplate
-```
-
-<!-- reporting issue -->
-
-## 🐞 Reporting Issues
-
-We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/zeon-studio/nextplate/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/zeon-studio/nextplate/issues).
-
-<!-- licence -->
-
-## 📝 License
-
-Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
-
-**Code License:** Released under the [MIT](https://github.comzeon-studio/nextplate/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
-
-## 💻 Need Custom Development Services?
-
-If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://zeon.studio/).

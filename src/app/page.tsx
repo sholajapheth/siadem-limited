@@ -46,7 +46,7 @@ const Home = () => {
               <div className="col-12">
                 <ImageFallback
                   src={banner.image}
-                  className="mx-auto"
+                  className="mx-auto grayscale"
                   width="800"
                   height="420"
                   alt="banner image"
@@ -112,7 +112,7 @@ const Home = () => {
         </section>
       ))}
 
-      <Testimonials data={testimonial} />
+      {/* <Testimonials data={testimonial} /> */}
       <CallToAction data={callToAction} />
     </>
   );
